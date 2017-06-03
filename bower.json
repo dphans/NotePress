@@ -1,0 +1,30 @@
+{
+  "name": "notepress",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "baophan94@icloud.com"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "nodejs",
+    "notepress",
+    "mongodb",
+    "vuejs",
+    "javascript",
+    "npm"
+  ],
+  "homepage": "https://github.com/dphans/NotePress",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "^2.2.10",
+    "uikit": "^2.27.4",
+    "vue": "^2.3.3"
+  }
+}

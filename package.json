@@ -1,0 +1,41 @@
+{
+  "name": "notepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dphans/NotePress.git"
+  },
+  "keywords": [
+    "nodejs",
+    "notepress",
+    "mongodb",
+    "vuejs",
+    "javascript",
+    "npm"
+  ],
+  "author": "baophan94@icloud.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dphans/NotePress/issues"
+  },
+  "homepage": "https://github.com/dphans/NotePress#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "cookie-session": "^2.0.0-beta.2",
+    "express": "^4.15.3",
+    "express-vue": "^3.12.1",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "^4.10.4",
+    "mongoose-beautiful-unique-validation": "^5.1.1",
+    "mongoose-timestamp": "^0.6.0",
+    "morgan": "^1.8.2",
+    "util": "^0.10.3"
+  }
+}
