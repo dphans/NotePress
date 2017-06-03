@@ -1,0 +1,10 @@
+# Project junk files
+app/public/uploads/**
+
+# NodeJS dependence files
+node_modules/**
+app/public/components/**
+
+# OS junk files
+*.DS_STORE
+desktop.ini
